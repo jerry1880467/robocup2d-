@@ -9,4 +9,8 @@
 
 ---
 
+# tips
+感兴趣的同学可以通过以下小游戏学习git
+git闯关式学习，learn git branching：https://learngitbranching.js.org/?locale=zh_CN
+
 ⚠️ **注意**：在整个过程中，请避免删除或修改其他参与者的作业。任何违反此规定的行为都将被视为严重违规，可能导致本次考核成绩被记为 **0 分**。
